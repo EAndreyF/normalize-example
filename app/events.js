@@ -1,4 +1,4 @@
-window.state = [
+export const events = [
     {
         date: '2018-06-14',
         city: {
