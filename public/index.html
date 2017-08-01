@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Normalize workshop</title>
+    <script src="data.js"></script>
+    <script src="normalize.js"></script>
+</head>
+<body>
+    <pre id="output"></pre>
+    <script>
+        const output = document.getElementById('output');
+        output.innerHTML = JSON.stringify(window.normalized, null, 4);
+    </script>
+</body>
+</html>
