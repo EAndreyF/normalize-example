@@ -1,5 +1,6 @@
 export const events = [
     {
+        id: 1,
         date: '2018-06-14',
         city: {
             name: 'Москва',
@@ -14,6 +15,7 @@ export const events = [
         group: 'A',
     },
     {
+        id: 2,
         date: '2018-06-15',
         city: {
             name: 'Нижний Новгород',
@@ -28,6 +30,7 @@ export const events = [
         group: 'A',
     },
     {
+        id: 3,
         date: '2018-06-16',
         city: {
             name: 'Санкт-Петербург',
@@ -42,6 +45,7 @@ export const events = [
         group: 'A',
     },
     {
+        id: 4,
         date: '2018-06-17',
         city: {
             name: 'Санкт-Петербург',
@@ -56,6 +60,7 @@ export const events = [
         group: 'A',
     },
     {
+        id: 5,
         date: '2018-06-18',
         city: {
             name: 'Казань',
@@ -70,6 +75,7 @@ export const events = [
         group: 'A',
     },
     {
+        id: 6,
         date: '2018-06-19',
         city: {
             name: 'Москва',
@@ -84,6 +90,7 @@ export const events = [
         group: 'A',
     },
     {
+        id: 7,
         date: '2018-06-14',
         city: {
             name: 'Москва',
@@ -98,6 +105,7 @@ export const events = [
         group: 'B',
     },
     {
+        id: 8,
         date: '2018-06-15',
         city: {
             name: 'Санкт-Петербург',
@@ -112,6 +120,7 @@ export const events = [
         group: 'B',
     },
     {
+        id: 9,
         date: '2018-06-16',
         city: {
             name: 'Казань',
@@ -126,6 +135,7 @@ export const events = [
         group: 'B',
     },
     {
+        id: 10,
         date: '2018-06-17',
         city: {
             name: 'Нижний Новгород',
@@ -140,6 +150,7 @@ export const events = [
         group: 'B',
     },
     {
+        id: 11,
         date: '2018-06-18',
         city: {
             name: 'Москва',
@@ -154,6 +165,7 @@ export const events = [
         group: 'B',
     },
     {
+        id: 12,
         date: '2018-06-19',
         city: {
             name: 'Казань',
@@ -168,6 +180,7 @@ export const events = [
         group: 'B',
     },
     {
+        id: 13,
         date: '2018-06-14',
         city: {
             name: 'Казань',
@@ -182,6 +195,7 @@ export const events = [
         group: 'C',
     },
     {
+        id: 14,
         date: '2018-06-15',
         city: {
             name: 'Казань',
@@ -196,6 +210,7 @@ export const events = [
         group: 'C',
     },
     {
+        id: 15,
         date: '2018-06-16',
         city: {
             name: 'Москва',
@@ -210,6 +225,7 @@ export const events = [
         group: 'C',
     },
     {
+        id: 16,
         date: '2018-06-17',
         city: {
             name: 'Москва',
@@ -224,6 +240,7 @@ export const events = [
         group: 'C',
     },
     {
+        id: 17,
         date: '2018-06-18',
         city: {
             name: 'Санкт-Петербург',
@@ -238,6 +255,7 @@ export const events = [
         group: 'C',
     },
     {
+        id: 18,
         date: '2018-06-19',
         city: {
             name: 'Нижний Новгород',
