@@ -38,7 +38,6 @@ export const events = [
                 lon: 30,
             },
         },
-        stadium: '',
         team0: {
             id: 1,
             name: 'Россия',
@@ -63,7 +62,6 @@ export const events = [
                 lon: 40,
             },
         },
-        stadium: '',
         team0: {
             id: 1,
             name: 'Россия',
@@ -88,7 +86,6 @@ export const events = [
                 lon: 40,
             },
         },
-        stadium: '',
         team0: {
             id: 2,
             name: 'Голландия',
@@ -113,7 +110,6 @@ export const events = [
                 lon: 50,
             },
         },
-        stadium: '',
         team0: {
             id: 2,
             name: 'Голландия',
@@ -194,7 +190,6 @@ export const events = [
                 lon: 40,
             },
         },
-        stadium: '',
         team0: {
             id: 5,
             name: 'Португалия',
@@ -219,7 +214,6 @@ export const events = [
                 lon: 50,
             },
         },
-        stadium: '',
         team0: {
             id: 5,
             name: 'Португалия',
@@ -244,7 +238,6 @@ export const events = [
                 lon: 30,
             },
         },
-        stadium: '',
         team0: {
             id: 6,
             name: 'Греция',
@@ -297,7 +290,6 @@ export const events = [
                 lon: 50,
             },
         },
-        stadium: '',
         team0: {
             id: 7,
             name: 'Узбекистан',
@@ -322,7 +314,6 @@ export const events = [
                 lon: 50,
             },
         },
-        stadium: '',
         team0: {
             id: 9,
             name: 'Аргентина',
@@ -347,7 +338,6 @@ export const events = [
                 lon: 50,
             },
         },
-        stadium: '',
         team0: {
             id: 9,
             name: 'Аргентина',
@@ -428,7 +418,6 @@ export const events = [
                 lon: 40,
             },
         },
-        stadium: '',
         team0: {
             id: 10,
             name: 'Болгария',
@@ -453,7 +442,6 @@ export const events = [
                 lon: 30,
             },
         },
-        stadium: '',
         team0: {
             id: 11,
             name: 'Чехия',
