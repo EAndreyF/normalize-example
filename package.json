@@ -6,7 +6,8 @@
     "start": "nodemon index.js --exec babel-node"
   },
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "normalizr": "^3.2.3"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
