@@ -1,9 +1,9 @@
 import fs from 'fs';
-import {events} from './events';
-import {normalize} from './normalize';
+import {filters} from './filters';
+import {normalizeFilters} from './normalizeFilters';
 
-export default () => {
-    const result = JSON.stringify(normalize(events), null, 4);
+export const showFilters = () => {
+    const result = JSON.stringify(normalizeFilters(filters), null, 4);
 
-    fs.writeFileSync('./app/output.json', result);
-}
+    fs.writeFileSync('./app/output-filters.json', result);
+};
